@@ -1,3 +1,7 @@
 */resources/*
 */.idea/*
 */.ipynb_checkpoints/*
+Assingment_02_Text_Classification_n_Vector_Semantics/data/glove42b300dtxt.zip
+Assingment_02_Text_Classification_n_Vector_Semantics/data/GoogleNews-vectors-negative300.bin.gz
+Assingment_02_Text_Classification_n_Vector_Semantics/data/aclImdb/*
+Assingment_02_Text_Classification_n_Vector_Semantics/data/aclImdb_v1.tar
